@@ -2,6 +2,7 @@
 ## Masters in Applied Data Science
 ## Shashank Nagaraja
 e: snagaraj@syr.edu
+
 SUID: 862678552
 
 ## Program Overview
@@ -19,4 +20,10 @@ The overall goals of the master’s in applied data science include several obje
 3. [Portfolio - Shashank Nagaraja.pptx](https://github.com/dapluggg/Syracuse-MS-ADS-Portfolio-Milestone/blob/03f0e972e06b64685226fe9c80509f3ad564461e/Portfolio%20-%20Shashank%20Nagaraja.pptx)
     - Portfolio Milestone presentation slide deck
 
-4. [Shashank_Resume.docx]()
+4. [Shashank_Resume.docx](https://github.com/dapluggg/Syracuse-MS-ADS-Portfolio-Milestone/blob/86b7ab6b40235f26728f0a71f84f493bf6caa2cb/Shashank_Resume.docx)
+    - Resume
+
+5. Projects
+    - IST 719 Project - Netflix
+    - IST 707 Project - Fashion MNIST
+    - IST 738 Project - Political Party Classifier
