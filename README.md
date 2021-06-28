@@ -1,4 +1,4 @@
-# Syracuse University Schol of Information Studies
+# Syracuse University School of Information Studies
 ## Masters in Applied Data Science
 ## Shashank Nagaraja
 e: snagaraj@syr.edu
